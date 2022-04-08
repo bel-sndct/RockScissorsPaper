@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "js-sha3": "^0.8.0",
+    "random-number": "^0.0.9",
+    "readline-sync": "^1.4.10",
+    "table": "^6.8.0"
+  }
+}
